@@ -149,7 +149,7 @@ public class AeronMBean implements DynamicMBean {
 	}
 	
 	private static void showUsage() {
-		System.out.println("optional parameter pointing to AeronCncFile. If no parameters provided the default cnc file for current user will be used");
+		System.out.println("optional parameter pointing to AeronCncFile. If no parameter is provided the default cnc file for current user will be used");
 	}
 
 }
